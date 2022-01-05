@@ -1,8 +1,8 @@
 # Amazon Web Scraping: Project Overview
 
-* In this project, I scraped data from Amazon.com. My focus was on data analyst books.
+* In this project, I scraped data from Amazon.com. My focus was on Data Analysis books.
 
-* I scraped over 250 data analyst books information using python Beautiful Soup, and Selenium.
+* I scraped over 250 Data Analysis books information using python Beautiful Soup, and Selenium.
 
 * The results are stored inside a CSV File.
 
