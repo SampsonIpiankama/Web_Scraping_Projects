@@ -18,7 +18,7 @@ For this, I use Selenium to automate the browser. Other libraries that are used 
 - lxml
 
 # Output
-After scraping the data, I carried out data cleaning sing Excel.
+After scraping the data, I carried out data cleaning using Excel.
 
 - Dirty Data
 <img width="945" alt="Hotels ng dirty data" src="https://user-images.githubusercontent.com/92667306/161396374-0998a148-2894-4719-af36-886c5d818e0c.PNG">
